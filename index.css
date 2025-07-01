@@ -1,0 +1,40 @@
+ h1 {
+     color: rgb(21, 8, 172);
+     font-size: 30px;
+     text-align: center;
+ }
+
+ p {
+     font-size: large;
+     text-align: justify;
+ }
+
+ body {
+     background-color: rgb(187, 234, 249);
+ }
+
+ img {
+     border-radius: 15px;
+ }
+
+ th,
+ td {
+     padding: 20px;
+     text-align: center;
+     background-color: rgb(91, 213, 250);
+     color: rgb(21, 8, 172);
+ }
+
+ li {
+     margin-bottom: 20px;
+ }
+
+ .img:hover {
+     color: rgb(8, 221, 72);
+ }
+
+ button {
+     width: 150px;
+     height: 50px;
+     color: blue;
+ }
